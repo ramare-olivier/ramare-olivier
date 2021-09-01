@@ -1,2 +1,0 @@
-Les boutons sont faits avec GIMP, 
-Fichier->Creer->Fx-Foundry->Render->Glass Orb Dark
